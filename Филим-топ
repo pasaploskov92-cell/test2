@@ -1,0 +1,70 @@
+<title>Пример проекта М1У6 (фильм)</title>
+<html  style="background-color:black;">
+<header style="background-color:black; height: 140px">
+<h1 style="color:#04A307; font-size: 50px"> <img src="dino3.png" style="height: 100px"> Филим-топ <i style="color:white; font-size: 30px">- лучший сайт про кино!</i></h1>
+</header>
+<main style="background-color:white; width:100%; height:2650px">
+  <h1 style="text-align:center; font-size: 40px"> <br> Один дома <br> <img src="homealone.png" width="350px"></h1>
+  <h1 style="font-size: 40px"> <br> О фильме </h1>
+  <table style="border: 2px solid black; font-size: 35px; border-collapse:collapse">
+    <tr>
+      <td style="border: 2px solid black;"> <b>Год производства__</b></td>
+      <td style="border: 2px solid black;"> 1990</td>
+    </tr>
+    <tr>
+      <td style="border: 2px solid black;"><b>Режиссёр</b></td>
+      <td style="border: 2px solid black;">Крис Коламбус</td>
+    </tr>
+    <tr>
+      <td style="border: 2px solid black;"><b>Страна</b></td>
+      <td style="border: 2px solid black;">США</td>
+    </tr>
+     <tr>
+      <td style="border: 2px solid black;"><b>Жанр</b></td>
+      <td style="border: 2px solid black;">Комедия, семейный</td>
+    </tr>
+  </table>
+  <h1 style="font-size: 40px"> Оценка</h1>
+	<h1><b style="color:#04A307; font-size: 80px">8.3</b> / 10 - отличная оценка!</h1>
+  <h1 style="font-size: 40px"> Описание</h1>
+	<p style="font-size: 30px">Американское семейство отправляется из Чикаго в Европу, но в спешке 
+      сборов бестолковые родители забывают дома... одного из своих детей. Юное создание, 
+      однако, не теряется и демонстрирует чудеса изобретательности. И когда в дом залезают 
+      грабители, им приходится не раз пожалеть о встрече с милым крошкой.</p>
+  <h1 style="font-size: 40px"> Кадры из фильма </h1>
+  <img src="1920x (3).webp" height="500px">
+  <img src="1920x (2).webp" height="500px">
+  <img src="1920x (1).webp" height="500px">
+  <img src="1920x.webp" height="500px">
+	<h1 style="font-size: 40px"> Отзывы кинокритиков</h1>
+  <table style="background-color:lightgreen; font-size: 35px; border-collapse:collapse">
+    <tr>
+      <td style="border: 2px solid black;  width: 900px;"> <b>Александр</b></td>
+    </tr>
+    <tr style="border: 2px solid black;">
+      <td>Сколько я помню свои Новый год, столько я и смотрю эту потрясающую рождественскую комедию. 
+        Каждый раз, когда смотрю, хотя и знаю уже все шутки наперед, а все равно смешно. 
+        Этот фильм никогда на перестанет меня веселить. Этот милый белобрысый парнишка Кевин, 
+        такой симпатяга, жаль, что Макколей Калкин не стал супер звездой, но 'Один дома' - культовый 
+        фильм.</td>
+      <td style="border: 2px solid black; width: 50px;">Оценка: <br><b>8.5</b>/10</td>
+    </tr>
+    </table>
+  <br>
+   <table style="background-color:#FF7373; font-size: 35px; border-collapse:collapse">
+    <tr>
+      <td style="border: 2px solid black;  width: 900px;"> <b>Константин</b></td>
+    </tr>
+    <tr style="border: 2px solid black;">
+      <td>Спросите себя: какие ассоциации вызывает у вас «Один дома»? Наверняка в памяти всплывают смешные грабители, 
+        которые получают от находчивого Кевина. Не спорю, что это снято удачно, смотреть на это весело, только есть одно «но»:
+        слишком жестоко!</td>
+      <td style="border: 2px solid black; width: 50px;">Оценка: <br><b>4</b>/10</td>
+    </tr>
+    </table>
+</main>
+<footer style="background-color:black; height: 120px; text-align:center; color:white ">
+  <h2>Автор сайта: <i>Иван</i></h2>
+  <h3>2025г.</h3>
+</footer>
+</html>
